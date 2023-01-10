@@ -27,5 +27,6 @@ public class SingletonThreadSafe {
             }
         }
         return singletonThreadSafe;
+
     }
 }
